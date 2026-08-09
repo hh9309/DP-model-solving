@@ -1,0 +1,6 @@
+{
+  "name": "动态规划算法可视化分析系统",
+  "description": "一个针对经典动态规划问题（01背包、最长公共子序列、编辑距离）的交互式双栏可视化与多维分析教学平台，支持状态转移方程前驱追溯、空间优化一维数组演进、AI洞察导师以及Python代码级同步高亮。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
